@@ -1,8 +1,12 @@
 ### Olá eu sou o Adriano Ferreira de Oliveira! Seja bem vindo ao meu perfil! 👋
 
-- 🔭 Atualmente sou analista de Business Intelligence
-- 🌱 Sou acadêmico do curso de Engenharia de Software
-- 📫 Contate-me através do e-mail: adrianopark1@hotmail.com 
+- 🔭 I am Adriano Ferreira de Oliveira, graduated in Business Administration and Software Analysis and Development, with a postgraduate degree in Big Data.
+
+- ⏰ At 26, I have already accumulated over 8 years of diverse experience in commerce, including Inventory Auditing, Franchise Management, Supply Chain, and as a Business Intelligence Analyst, developing advanced data solutions.
+
+ - 🤖 Passionate about technology, I founded Hybrid Theory Tech, where I work as an instructor in the data field.
+
+ -💟 In my free time, I dedicate myself to music, playing guitar, and I am constantly improving my studies in Software Engineering, Big Data, and Artificial Intelligence.
   
 
 <div align="center">
