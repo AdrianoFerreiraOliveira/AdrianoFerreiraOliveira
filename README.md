@@ -1,4 +1,4 @@
-### Olá eu sou o Adriano Ferreira de Oliveira! Seja bem vindo ao meu perfil! 👋
+###  Hi, I'm Adriano Ferreira de Oliveira! Welcome to my profile! 👋
 
 - 🔭 I am Adriano Ferreira de Oliveira, graduated in Business Administration and Software Analysis and Development, with a postgraduate degree in Big Data.
 
