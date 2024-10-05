@@ -6,7 +6,7 @@
 
  - 🤖 Passionate about technology, I founded Hybrid Theory Tech, where I work as an instructor in the data field.
 
- -💟 In my free time, I dedicate myself to music, playing guitar, and I am constantly improving my studies in Software Engineering, Big Data, and Artificial Intelligence.
+ - 💟 In my free time, I dedicate myself to music, playing guitar, and I am constantly improving my studies in Software Engineering, Big Data, and Artificial Intelligence.
   
 
 <div align="center">
